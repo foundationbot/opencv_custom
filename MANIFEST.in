@@ -1,0 +1,1 @@
+recursive-include cv2 *.so
